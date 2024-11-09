@@ -32,3 +32,4 @@ For a visual guide, please refer to the screenshots below:
 ### Upon account deletion, all associated user data including Name, Surname, Addresses, Email, and Password will be permanently removed from firebase servers.
 
 ### For any further assistance or inquiries, please contact our support team at [mihailx136@gmail.com](mailto:mihailx136@gmail.com).
+
